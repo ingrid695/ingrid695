@@ -2,8 +2,8 @@
 
 Meu nome é Ingrid López
 
-- Estou estudando no Alura
-- Estou me desenvolvendo na linguagem JavaScript
+- Estou estudando no [Alura](https://www.alura.com.br)
+- -Estou me desenvolvendo na linguagem JavaScript
 - Ultilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
   ### Você entra em contato comigo 📫
@@ -12,4 +12,5 @@ Meu nome é Ingrid López
   
   @ingridlopezz__
 
-![](https://tenor.com/pt-BR/view/wow-gif-20343480)
+
+  ![](https://media.tenor.com/by37VK-1V_sAAAAM/to-hot.gif)
